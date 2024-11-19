@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "nome": "Camiseta batman",
+      "valor": "50",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951317-MLB72557391659_102023-O.webp",
+      "id": "1"
+    },
+    {
+      "nome": "Boneco Flash",
+      "valor": "37",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "id": "3"
+    },
+    {
+      "nome": "Boneco Darth Vader ",
+      "valor": "80",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+      "id": "4"
+    },
+    {
+      "nome": "Boneco Batman",
+      "valor": "40",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "id": "5"
+    },
+    {
+      "nome": "Boneco Hulk",
+      "valor": "35",
+      "imagem": "https://m.media-amazon.com/images/I/516X0YLRV+L._AC_SY879_.jpg",
+      "id": "6"
+    },
+    {
+      "nome": "Boneco Spider Man",
+      "valor": "60",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620343-MLA45333647274_032021-O.webp",
+      "id": "7"
+    },
+    {
+      "nome": "Camiseta Capitão América",
+      "valor": "40",
+      "imagem": "https://cf.shopee.com.br/file/eeac3f6f17c24ec09fa9ccdb0e9bc047",
+      "id": "8"
+    },
+    {
+      "nome": "Caneca Thanos",
+      "valor": "30",
+      "imagem": "https://th.bing.com/th/id/OIP.ojo-21g-fb6zyLmO_hEcXQHaH3?pid=ImgDet&w=178&h=188&c=7",
+      "id": "9"
+    },
+    {
+      "nome": "Boneco Wolverine",
+      "valor": "80",
+      "imagem": "https://th.bing.com/th/id/OIP.pgAmnBVohhrIbE6LCSYuZQHaHa?w=176&h=180&c=7&r=0&o=5&pid=1.7",
+      "id": "10"
+    },
+    {
+      "nome": "Caneca Hogwarts",
+      "valor": "30",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901885-MLB80139531165_102024-O.webp",
+      "id": "13"
+    },
+    {
+      "nome": "Caneca Sonserina",
+      "valor": "30",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620386-MLU75752419488_042024-O.webp",
+      "id": "14"
+    },
+    {
+      "nome": "Caneca Plataforma 9 3/4",
+      "valor": "30",
+      "imagem": "https://th.bing.com/th/id/OIP.vD1au5jeYaF2oeSRffMLbgHaHa?rs=1&pid=ImgDetMain",
+      "id": "15"
+    }
+  ]
+}
